@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TSDKProfile GenerateOTP:withChallenge:]:TSDKProfile.m">
+      </ContextState>
+      <ContextState
+         contextName = "ProfileTableController.challengeEnter(Any) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileTableController.pinEdit(Any) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(profileList.allObjects[slectedProfileIndex] as! TSDKProfile)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileTableController.(challengeEnter(Any) -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ch[2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CommonCryptoLib generateOTP:userChallenge:BinarySeed:]:CommonCryptoLib.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "strlen(userChallenge)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TSDKActivationRequestBuilder ValidateSeed]:TSDKActivationRequestBuilder.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[seed length] ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
